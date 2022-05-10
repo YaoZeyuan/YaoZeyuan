@@ -1,7 +1,7 @@
 ### Hi guys 👋
 
 - 🔭 贝壳找房前端工程师
-- 🌱 希望能为提效做一点自己的贡献
+- 🌱 希望对他人有所帮助
 - 📫 邮箱联系: work@yaozeyuan.online
 - 🐦 个人博客：https://www.yaozeyuan.online
 
