@@ -8,7 +8,7 @@
 ### Others
 
 - [知乎助手](https://www.yaozeyuan.online/zhihuhelp/)
-  - 将知乎用户回答导出为 epub 电子书
+  - 将知乎用户回答整理为 epub 电子书
 - [稳部落](https://www.yaozeyuan.online/stablog/)
   -  备份导出用户微博为pdf
 - [追加首付计算器](http://www.yaozeyuan.online/additional_down_payment_calculator/)
