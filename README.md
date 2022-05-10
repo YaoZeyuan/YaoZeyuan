@@ -13,6 +13,8 @@
   -  备份导出用户微博为pdf
 - [追加首付计算器](http://www.yaozeyuan.online/additional_down_payment_calculator/)
   -  通过计算实际还款过程, 分析在给定条件下是否需要追加首付, 需要追加多少首付 
+- [组件使用次数统计](https://github.com/YaoZeyuan/parse_component_by_babel)
+  -  统计项目中组件使用次数, 用于统计组件库提效成果时使用(组件节约时间 = 组件库中组件被使用次数 * 组件开发时间) 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaozeyuan&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 
