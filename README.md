@@ -15,8 +15,8 @@
   -  基于大数据的起名辅助工具(15w现代人名, 23w私募基金+公司名, 1w古代人名+字号)
 - [追加首付计算器](http://www.yaozeyuan.online/additional_down_payment_calculator/)
   -  通过计算实际还款过程, 分析在给定条件下是否需要追加首付, 需要追加多少首付 
-- [组件使用次数统计](https://github.com/YaoZeyuan/parse_component_by_babel)
-  -  统计前端项目中组件使用次数, 用于统计组件库提效成果时使用(组件节约时间 = 组件库中组件被使用次数 * 组件开发时间) 
+- [扑克牌新手如何在斗地主全国锦标赛中夺冠](https://www.yaozeyuan.online/how-to-win-poke-in-a-stock-ppt)
+  -  我对投资理财的一些理解
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaozeyuan&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 
